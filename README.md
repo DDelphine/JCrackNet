@@ -2,13 +2,13 @@
 A Simple Network Protocol Analyzer
 
 ## The analysis process of JCrackNet
-![alt text](https://github.com/DDelphine/JCrackNet/tree/master/JCrackNet/img/flowsheet.png)
+![Alt text](JCrackNet/img/flowsheet.png)
 
 ## GUI of JCrackNet
-![alt text](https://github.com/DDelphine/JCrackNet/tree/master/JCrackNet/img/gui.png)
+![Alt text](JCrackNet/img/gui.png)
 
 ## Example of JCrackNet
-![alt text](https://github.com/DDelphine/JCrackNet/tree/master/JCrackNet/img/example.png)
+![alt text](JCrackNet/img/example.png)
 
 ## Analysis result of WireShark
-![alt text](https://github.com/DDelphine/JCrackNet/tree/master/JCrackNet/img/wire.png)
+![alt text](JCrackNet/img/wire.png)
